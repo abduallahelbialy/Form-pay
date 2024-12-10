@@ -5,7 +5,11 @@
     >
       <div class="img-user">
         <div class="flex gap-3 items-center">
-          <img src="../assets/logo.png" alt="logo" class="w-[50px] rounded-[4px]" />
+          <img
+            src="../assets/logo.png"
+            alt="logo"
+            class="w-[50px] rounded-[4px]"
+          />
           <h1 class="text-blue-600 font-bold">
             Hi, Khaled <br />
             <p class="text-black font-normal">Freemium</p>
