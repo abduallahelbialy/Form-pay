@@ -19,7 +19,6 @@
       </div>
       <div class=" mt-3 flex justify-between gap-2 ">
                 <img src="../assets/8888333.jpg" alt="" class=" rounded-[16px] w-[18%] m-auto ">
-
         <img src="../assets/501402.webp" alt="" class=" rounded-[16px] w-[60%] m-auto ">
         <img src="../assets/maxresdefault.jpg" alt="" class=" rounded-[16px] w-[18%] m-auto ">
       </div>
